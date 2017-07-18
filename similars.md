@@ -1,4 +1,4 @@
-# Modelos similares (pero no):
+# Modelos similares (pero no)
 * Google Docs (especialmente el modo Recommendation)
 * Slack
 * Mural
